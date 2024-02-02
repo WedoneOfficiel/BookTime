@@ -31,4 +31,4 @@ Veuillez noter que nous utilisons l'API Google Livres pour obtenir certaines inf
 
 Rendez-vous tout simplement sur notre site Web - [BookTime]([https://wedone.github.io/BookTime/](https://wedoneofficiel.github.io/Boot-projets-Wedone-Officiel/BookTime/)). Vous serez instantanément accueilli par la page d'accueil, où vous pourrez rechercher des livres par titre, par sujet, ou explorer par genre ou par livres classés quotidiennement.
 
-<h3 allign="center">Bookflix - Explorez le monde des livres avec vos amis ! </h3>
+<h3 allign="center">BookTime - Explorez le monde des livres avec vos amis ! </h3>
