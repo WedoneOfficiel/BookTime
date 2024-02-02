@@ -8,9 +8,6 @@
 
 <p allign="center">
 
-<a href="https://github.com/Harry-Hopkinson">
-	<img src= "https://images.weserv.nl/?url=avatars.githubusercontent.com/u/63599884?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d">
-</a>
 Ceci est une traduction du projet de Harry Hopkinson (ainsi que quelques améliorations) :	
 <a href="https://github.com/Harry-Hopkinson">
 	<img src= "https://images.weserv.nl/?url=avatars.githubusercontent.com/u/85027459?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d">
