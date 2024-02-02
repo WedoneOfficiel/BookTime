@@ -8,8 +8,7 @@
 
 <p allign="center">
 
-Ceci est une traduction du projet de Harry Hopkinson (ainsi que quelques améliorations) :
-
+Ceci est une traduction d'un projet nommé Booklix (ainsi que quelques améliorations) :
 <a href="https://github.com/Harry-Hopkinson">
 	<img src= "https://images.weserv.nl/?url=avatars.githubusercontent.com/u/85027459?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d">
 </a>
@@ -30,6 +29,6 @@ Veuillez noter que nous utilisons l'API Google Livres pour obtenir certaines inf
 
 ## 💻 Usage
 
-Rendez-vous tout simplement sur notre site Web - [Bookflix](https://wedone.github.io/BookTime/). Vous serez instantanément accueilli par la page d'accueil, où vous pourrez rechercher des livres par titre, par sujet, ou explorer par genre ou par livres classés quotidiennement.
+Rendez-vous tout simplement sur notre site Web - [BookTime]([https://wedone.github.io/BookTime/](https://wedoneofficiel.github.io/Boot-projets-Wedone-Officiel/BookTime/)). Vous serez instantanément accueilli par la page d'accueil, où vous pourrez rechercher des livres par titre, par sujet, ou explorer par genre ou par livres classés quotidiennement.
 
 <h3 allign="center">Bookflix - Explorez le monde des livres avec vos amis ! </h3>
