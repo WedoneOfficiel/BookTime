@@ -3,8 +3,8 @@
 
  <h1>Trouver des livres en utilisant la base de données du Google Play Books.</h1>
 
-<img src="icons/Showcase.PNG">
-<img src="icons/Showcase2.PNG">
+<img src="icons/Capture.PNG">
+<img src="icons/Capture2.PNG">
 
 <p allign="center">
 
