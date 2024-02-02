@@ -20,24 +20,18 @@
 
 ## 🏁 Introduction
 
-Bookflix is a website where you can enjoy, and explore the world of books - with your friends, and in the comfort of your browser!
+Bookflix est un site Web sur lequel vous pouvez profiter et explorer le monde des livres - avec vos amis et dans le confort de votre navigateur !
 
-Bookflix is a social platform, as well as a site dedicated to books, in accordance with our tagline - Bookflix offers you the following delights :-
+Bookflix est une plateforme sociale, ainsi qu'un site dédié aux livres, conformément à notre slogan - Bookflix vous offre les plaisirs suivants :-
 
-1. Searching for books by title, subject, and isbn, and viewing information associated with them, such as a short description, similar books, published versions.
-2. Bookflix allows you to publish reviews about books, and rate them, which is then stored in our own databases.
-3. On Bookflix, you can follow other users to see what books they read, and be notified whenever they publish a review.
+1. Rechercher des livres par titre, sujet et isbn, et afficher les informations qui leur sont associées, telles qu'une brève description, des livres similaires, des versions publiées.
+2. Bookflix vous permet de publier des critiques sur des livres et de les noter, qui sont ensuite stockées dans nos propres bases de données.
+3. Sur Bookflix, vous pouvez suivre d'autres utilisateurs pour voir quels livres ils lisent et être averti chaque fois qu'ils publient une critique.
 
-Please note that we use the Google Books API to obtain some information about books and to allow users to read them, so these features alone may not be available for all books. 
+Veuillez noter que nous utilisons l'API Google Livres pour obtenir certaines informations sur les livres et permettre aux utilisateurs de les lire. Par conséquent, ces fonctionnalités peuvent ne pas être disponibles à elles seules pour tous les livres.
 
 ## 💻 Usage
 
-To get started, head over to our website - [Bookflix](https://harry-hopkinson.github.io/BookFlix/). You will instantly be met with the homepage, where you can search for books by title, subject, or explore by genre or daily rated books.
+Rendez-vous tout simplement sur notre site Web - [Bookflix](https://wedone.github.io/BookTime/). Vous serez instantanément accueilli par la page d'accueil, où vous pourrez rechercher des livres par titre, par sujet, ou explorer par genre ou par livres classés quotidiennement.
 
-To explore our collection of books, ratings, reviews, and users, head over to the [Explore page](https://harry-hopkinson.github.io/BookFlix/#search), and search for a book, or user you want to view! When searching for books, you can search by name, by subject, and by its ISBN - International Standard Book Number.
-
-To explore trending books head over to the Trending Books which shows trending books with the New York Times API [Trending page](https://harry-hopkinson.github.io/BookFlix/#foryou)
-
-Once you provide your search query, Bookflix will fetch data from the Google Books API, and our own databases for a wide collection of books, and users. You can browse these, at your leisure!
-
-<h3 allign="center">Bookflix - Explore the world of books, with your friends! </h3>
+<h3 allign="center">Bookflix - Explorez le monde des livres avec vos amis ! </h3>
