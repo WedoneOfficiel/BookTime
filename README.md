@@ -1,7 +1,7 @@
 # BookTime
 <img align="left" width=70px height=70px src=".//icons/BookFlix.png" alt="Bookflix logo">
 
- <h1>Trouver des livres en utilisant la base de données du Google Play Books.</h1>
+ <h1>Trouvez des livres en utilisant la base de données du Google Play Books.</h1>
 
 <img src="icons/Capture.PNG">
 <img src="icons/Capture2.PNG">
