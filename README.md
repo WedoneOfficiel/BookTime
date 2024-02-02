@@ -1,7 +1,7 @@
-# Bookflix
+# BookTime
 <img align="left" width=70px height=70px src=".//icons/BookFlix.png" alt="Bookflix logo">
 
- <h1>Bookflix - A place to manage, explore and review books all from your browser.</h1>
+ <h1>Trouver des livres en utilisant la base de données du Google Play Books.</h1>
 
 <img src="icons/Showcase.PNG">
 <img src="icons/Showcase2.PNG">
