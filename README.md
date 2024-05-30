@@ -16,6 +16,11 @@ Ceci est une traduction d'un projet nommé Booklix (ainsi que quelques améliora
 
 </p>
 
+## Projet obsolète
+Comme expliqué sur la page de projet du Wedone Boot Projets, ce projet n'est plus supporté. Il ne bénéfiecera plus de mises à jour.
+
+WedoneOfficiel - le 30/05/2024 à 18:59
+
 ## 🏁 Introduction
 
 Bookflix est un site Web sur lequel vous pouvez profiter et explorer le monde des livres - avec vos amis et dans le confort de votre navigateur !
